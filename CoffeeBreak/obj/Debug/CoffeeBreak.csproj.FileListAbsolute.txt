@@ -1,0 +1,10 @@
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\bin\Debug\CoffeeBreak.exe.config
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\bin\Debug\CoffeeBreak.exe
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\bin\Debug\CoffeeBreak.pdb
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.csprojAssemblyReference.cache
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.CoffeeBreak.resources
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.Properties.Resources.resources
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.csproj.GenerateResource.cache
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.csproj.CoreCompileInputs.cache
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.exe
+C:\Users\Oisin\source\repos\CoffeeBreak\CoffeeBreak\obj\Debug\CoffeeBreak.pdb
