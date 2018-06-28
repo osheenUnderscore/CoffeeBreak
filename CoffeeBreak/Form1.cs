@@ -65,10 +65,12 @@ namespace CoffeeBreak
             catch (IOException ex)
             {
                 MessageBox.Show(ex.Message, "IOException");
-            }            finally
+            }
+            finally
             {
                 System.Diagnostics.Process.Start("CMD.exe", "/C echo DONE!!!!!");
-            }
+            }
+
             //StreamWriter textOut = new StreamWriter("D:\\Programming\\newfile.txt");
             //textOut.WriteLine("hello");
             //textOut.Close();
